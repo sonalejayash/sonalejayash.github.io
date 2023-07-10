@@ -1,0 +1,144 @@
+Uri: https://bhoskarpooja.github.io/
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\index.htm
+Content Type: text/html
+
+Uri: https://bhoskarpooja.github.io/assets/img/buggunobg.png
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\img\buggunobg.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\css.css
+Content Type: text/css
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/icofont/icofont.min.css
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\icofont\icofont.min.css
+Content Type: text/css
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/boxicons/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\boxicons\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/venobox/venobox.css
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\venobox\venobox.css
+Content Type: text/css
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/owl.carousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\owl.carousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/aos/aos.css
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\aos\aos.css
+Content Type: text/css
+
+Uri: https://bhoskarpooja.github.io/assets/css/style.css
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\css\style.css
+Content Type: text/css
+
+Uri: https://bhoskarpooja.github.io/index.html
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\index.html
+Content Type: text/html
+
+Uri: https://twitter.com/BhoskarPooja
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\BhoskarPooja.html
+Content Type: text/html
+
+Uri: https://github.com/bhoskarpooja
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\bhoskarpooja-1.html
+Content Type: text/html
+
+Uri: https://bhoskarpooja.github.io/assets/img/backg2.png
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\img\backg2.png
+Content Type: image/png
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120611.08928027033!2d77.24581357482866!3d19.147250984884213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bce29f0b84217ab:0xdb5cf2c503f66628!2sShri Guru Gobind Singhji Institute of Engineering and Technology%2C Nanded!5e0!3m2!1sen!2sin!4v1620567597969!5m2!1sen!2sin
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\maps\embed.html
+Content Type: text/html
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/jquery.easing/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\jquery.easing\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/php-email-form/validate.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\php-email-form\validate.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/waypoints/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\waypoints\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/counterup/counterup.min.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\counterup\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/isotope-layout/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\isotope-layout\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/venobox/venobox.min.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\venobox\venobox.min.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/owl.carousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\owl.carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/typed.js/typed.min.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\typed.js\typed.min.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/aos/aos.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\aos\aos.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/js/main.js
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/icofont/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\icofont\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/icofont/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\icofont\fonts\icofont.woff
+Content Type: font/woff
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/boxicons/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\boxicons\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/boxicons/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\boxicons\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/boxicons/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\boxicons\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/boxicons/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\boxicons\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/boxicons/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\boxicons\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://bhoskarpooja.github.io/assets/vendor/owl.carousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\vendor\owl.carousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://bhoskarpooja.github.io/assets/img/m.jpg
+File Name: C:\Downloaded Web Sites\bhoskarpooja.github.io\assets\img\m.jpg
+Content Type: image/jpeg
+
